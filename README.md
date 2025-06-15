@@ -21,4 +21,4 @@ Ces diagrammes seront présentés dans un document PDF contenant une explication
 ***-Rapport technique***: expliquer l'architecture du programme, les choix de conception et les méthodes utilisées.\
 ***-Démonstration***: préparer une présentation de l’application en fonctionnement.\
 Le projet demande une approche bien structurée, avec une modélisation UML solide et une implémentation efficace en C++\
-Nous avons préparé une démonstration sous forme de vidéo et quelques tests sur l'application. Veuillez consultez les ficchiers 'demonstration_simulateur_adresse_IP' et 'tests_de_l_application_sur_l_interface'.N'oubliez pas de télécharger la vidéo pour voir le fonctionnement de l'application.
+Nous avons préparé une démonstration sous forme de vidéo et quelques tests sur l'application: veuillez regarder la vidéo 'demonstration_simulateur_adresse_IP' et voir les fichiers ' .png' .N'oubliez pas de télécharger la vidéo pour voir le fonctionnement de l'application.
